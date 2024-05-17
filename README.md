@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 💙
 
-<!--
-**JenniferB2024/JenniferB2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jennifer Bendaçoli
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://ww.alura.com.br)
+- estou me desenvovendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+  jennifereketlyn@gmail.com
+  
+  @jenny_b3ndacoli
+
+![](https://media1.tenor.com/m/GRhNBpd-oYkAAAAd/prince3236-the-weeknd.gif)
+  
